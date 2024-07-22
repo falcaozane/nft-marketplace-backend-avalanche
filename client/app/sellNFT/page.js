@@ -161,7 +161,7 @@ export default function SellNFT() {
             </div>
             <div className="mb-6">
               <label className="block text-left text-lg font-bold mb-2 text-white">
-                Price (in Neon)
+                Price (in AVAX)
               </label>
               <input
                 type="number"

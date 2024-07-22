@@ -38,7 +38,7 @@ export default function Header() {
 
       if (chainID.toString() !== avax) {
         alert("Please switch your MetaMask to AVAX network");
-        //toast.error("Please switch your MetaMask to AVAX network")
+        toast.error("Please switch your MetaMask to AVAX network")
         return;
       }
     } catch (error) {

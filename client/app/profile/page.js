@@ -83,7 +83,7 @@ export default function Profile() {
                     <h2 className="md:text-xl text-sm font-bold text-white flex">Number of NFTs: <p className="mx-2 text-amber-500">{items?.length}</p></h2>
                   </div>
                   <div>
-                    <h2 className="md:text-xl text-sm font-bold text-white flex">Total Value: <p className="text-amber-500 mx-2">{totalPrice}</p> Neon</h2>
+                    <h2 className="md:text-xl text-sm font-bold text-white flex">Total Value: <p className="text-amber-500 mx-2">{totalPrice}</p> AVAX</h2>
                   </div>
                 </div>
                 </div>

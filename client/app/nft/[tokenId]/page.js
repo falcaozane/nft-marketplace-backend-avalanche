@@ -137,7 +137,7 @@ export default function NFTPage() {
                       <p>Description: {item?.description}</p>
                     </div>
                     <div className="md:text-xl font-bold text-white">
-                      <p>Price: {item?.price} Neon</p>
+                      <p>Price: {item?.price} AVAX</p>
                     </div>
                     <div className="flex md:text-xl font-bold text-white items-center justify-items-center text-center">
                       <p className="flex items-center">Seller: <p className="text-md md:mx-2 mx-1">{item?.seller.slice(0, 16)}...</p> </p>
